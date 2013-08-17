@@ -1,0 +1,8 @@
+.DS_Store
+.bundle
+.env
+.idea
+.ruby-version
+.rvmrc
+.sass-cache
+Thumbs.db
